@@ -1,0 +1,15 @@
+{
+  "version": "0.1.0",
+  "images": [
+    ["studio_logo", "/img/studio_logo.png"],
+    ["mainmenu_start_btn", "/img/mainmenu_start_btn.png"],
+    ["space", "/assets/images/space.png"],
+    ["player", "/assets/images/player.png"],
+    ["bullet", "/assets/images/bullet.png"],
+    ["enemyParticle", "/assets/images/enemyParticle.png"],
+    ["yellowEnemy", "/assets/images/yellow_enemy.png"],
+    ["redEnemy", "/assets/images/red_enemy.png"],
+    ["greenEnemy", "/assets/images/green_enemy.png"],
+    ["game_title","/img/game_title.png"]
+  ]
+}
